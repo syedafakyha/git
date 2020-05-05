@@ -1,1 +1,2 @@
 this is my first time creating a web on  Git VS (Version Controlling System)
+Editing and deletion is allowed
